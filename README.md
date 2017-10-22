@@ -4,7 +4,6 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 * Models involved
-
 Every event is an instance of model `Event` <br />
 An event has the `type` attribute. There are 2 types of event: `concert` or `exhibition`<br />
 **künstl_saison** is `Season` <br />

@@ -1,9 +1,10 @@
-class Performer
+class MusicalPiece 
   include Mongoid::Document
   include Mongoid::Timestamps
 
-  field :name
-  field :instrument
-  
+  field :title
+  field :composer
+
   belongs_to :concert
 end
+

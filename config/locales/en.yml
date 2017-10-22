@@ -30,4 +30,25 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  mongoid:
+    models:
+      season:
+        period:
+      event:
+        title:
+        start_date:
+        end_date:
+        abo_serie:
+        location:
+        concert:
+          performer:
+            name:
+            instrument:
+          program:
+            musical_piece:
+            composer:
+        exhibition:
+          title:
+          artist:
+
+
